@@ -7,3 +7,4 @@
 -----
 ![Capture](https://github.com/Amr-Abdellatif/Autoregressive-Models-for-Time-Series---Sequence-modelling/assets/92921252/be6a1fba-7359-43f0-bec2-d50d31372308)
 ----
+### The first thing we need is our data. Andrej Karpathy has shared some text from Shakespeare online that we will download. There are about 100,000 characters in this text, so we store the data in a variable called shakespear_100k. We use this dataset to show the process of training an autoregressive model, as well as its generative capabilities and its all listed in the notebook in this repo
